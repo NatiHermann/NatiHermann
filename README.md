@@ -1,4 +1,6 @@
 ## Hello! I’m Natália Hetkowski Hermann. 🙋🏻‍♀️
+### Willing to learn and develop new skills in technology.
+
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A1lia-hermann-a260b0243/)
@@ -15,4 +17,3 @@
   <img align="center" alt="Pacote Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
 
-Willing to learn and develop new skills in technology.
